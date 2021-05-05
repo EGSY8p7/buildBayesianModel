@@ -1,0 +1,15 @@
+Project available at: 
+
+1) Github: https://github.com/EGSY8p7/buildBayesianModel
+
+2) Google Colab: https://colab.research.google.com/drive/1GmojfwUq-g-Qszf4QpMqYvK7bYbkPjg_?usp=sharing
+
+There are .pynb and .py files for the convenience.
+
+All steps are described in the notebook (.ipynb file), and you need just make the csv files available (please, provide the correct path for them). Also install and import necessary libraries (also described within the code). 
+
+I have also included the necessary csv files for this project (just provide correct path for them on your laptop/or google drive).
+
+If you have any questions, please, ask because I might have forgotten to mention something.
+
+email: madina.kudaibergenova@nu.edu.kz
